@@ -29,3 +29,7 @@ Analytics Enginners connect, ingest, store, analyze and report on data with Micr
 > _This challenge was very interesting, the use of Microsoft Fabric for data analysis and each of its tools favor the use of the tool, the documentation and the practices provide a lot of knowledge about how to use this platform. from connection, ingestion, storage, analysis and reporting of data._
 
 > _I liked the interaction of the tools with each other, this way you can carry out different processes on the same platform. I liked the generation of data pipelines with a graphical environment. a very intuitive way to learn. I recommend learning these tools, you learn the concepts and development with practice._
+
+I earned my "Microsoft Learn Cloud Skills Challenge at Build 2024" badge! :ship: :rocket: :tada:
+
+![My badge] (./images/microsoft-learn-challenge-build-2024-badge.png)
